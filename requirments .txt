@@ -1,0 +1,8 @@
+nlp-tf-idf
+nltk
+scikit-build
+scikit-learn
+scipy
+regex
+sklearn
+wikipedia
