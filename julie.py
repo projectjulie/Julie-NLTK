@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity, linear_kernel
 
 
-data = open('/sdcard/Python/HR.txt','r',errors = 'ignore')
+data = open('HR.txt','r',errors = 'ignore') #Data Path
 raw = data.read()
 raw = raw.lower()
 
