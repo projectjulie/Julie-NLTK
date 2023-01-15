@@ -10,6 +10,7 @@ import warnings
 warnings.filterwarnings("ignore")
 nltk.download('punkt') 
 nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity, linear_kernel
 
