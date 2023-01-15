@@ -39,7 +39,7 @@ Julie is a chatbot made with Python NLTK. A program that utilizes the Natural La
 
 ## Run Online
 
-- On <a href="https://replit.com/@darkemate/Julie-NLTK-1">Replit</a> (Sign up not required)
+- On <a href="https://replit.com/@darkemate/Julie-NLTK-1">Replit</a> (Sign up not required)(not stable)
 
 
 ## Run Locally
