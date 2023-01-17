@@ -65,7 +65,7 @@ Install dependencies
 Run the project 
 
 ```bash
-  python3 julie.py 
+  python3 main.py 
 ```
 
 
